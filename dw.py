@@ -4,5 +4,5 @@ sum = 0.0
 while sum <= A:
     k += 1
     sum += 1 / k
-print(f"Наименьшее целое число K: {k}")
-print(f"Сумма 1 + 1/2 + ... + 1/K: {sum:.6f}")
+print(f"K: {k}")
+print(f"сумма: {sum:.6f}")
