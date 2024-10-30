@@ -1,4 +1,4 @@
-A = float(input("Введите число A (> 1): "))
+A = float(input("A (> 1): "))
 k = 0
 sum = 0
 while sum <= A:
